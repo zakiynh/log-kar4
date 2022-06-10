@@ -3,7 +3,7 @@ import Sidebar from "../components/Sidebar";
 import MainContent from "../components/MainContent";
 import PeopleContent from "../components/PeopleContent";
 import { Route, Routes } from "react-router-dom";
-import Detail from "../components/Detail";
+import Detail from "../components/DetailContent";
 
 export default function HomePage() {
     return (

@@ -1,4 +1,4 @@
-import { FETCH_MOVIE, FETCH_PEOPLE } from "./actinoType";
+import { FETCH_MOVIE, FETCH_PEOPLE } from "./actionType";
 
 export const fetchMovie = (payload) => {
     return {

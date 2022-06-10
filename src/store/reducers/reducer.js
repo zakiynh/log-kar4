@@ -1,4 +1,4 @@
-import { FETCH_MOVIE, FETCH_PEOPLE } from "../actions/actinoType";
+import { FETCH_MOVIE, FETCH_PEOPLE } from "../actions/actionType";
 
 const initialState = {
     movies: [],
